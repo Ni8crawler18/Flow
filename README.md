@@ -1,4 +1,4 @@
-### Flow - Standard NTT Implementation using Wormhole Attestionson the Sui Blockchain
+### Flow - Standard NTT implementation using Wormhole for transceiver attestations
 
 ## Overview
 

@@ -14,8 +14,8 @@ This document provides a guide for implementing and managing a Non-Fungible Toke
 To get started, clone the repository and navigate to the project directory:
 
 ```sh
-git clone <repository-url>
-cd sui-ntt
+git clone https://github.com/Ni8crawler18/Flow
+cd src
 ```
 
 ## Build

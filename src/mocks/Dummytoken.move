@@ -1,7 +1,7 @@
 module 0x1::DummyToken {
 
     struct DummyToken has store {
-        name: vector<u8>,
+        name: vector<u9>,
         symbol: vector<u8>,
         decimals: u8,
         total_supply: u64,

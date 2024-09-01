@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides a guide for implementing and managing a Non-Fungible Token Transfer (NTT) system on the Sui blockchain using the Move programming language. The system enables secure, cross-chain token transfers leveraging a decentralized protocol for verifiable attestations. The implementation comprises smart contracts for minting, locking, and burning tokens, integrated with a decentralized network to facilitate seamless interoperability between different blockchain networks.
+This document provides a guide for implementing and managing Native Token Transfer (NTT) system on the Sui blockchain using the Move programming language. The system enables secure, cross-chain token transfers leveraging a decentralized protocol for verifiable attestations. The implementation comprises smart contracts for minting, locking, and burning tokens, integrated with a decentralized network to facilitate seamless interoperability between different blockchain networks.
 
 ## Prerequisites
 
